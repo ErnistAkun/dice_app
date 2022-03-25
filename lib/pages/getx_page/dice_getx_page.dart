@@ -31,7 +31,4 @@ class DiceGetXPage extends StatelessWidget {
       }),
     );
   }
-
-  @override
-  noSuchMethod(Invocation invocation) => super.noSuchMethod(invocation);
 }
